@@ -1,0 +1,21 @@
+body{
+  position: relative;
+  margin:0;
+  padding:0;
+}
+.form{
+  position: relative;
+  left: 56%;
+  bottom: 20px;
+ width: 422px;
+
+}
+
+.info{
+  top: 20px;
+  position: relative;
+  left: 8%;
+
+}
+
+

@@ -1,0 +1,13 @@
+.info{
+  color: #151648;
+  font-size: x-large;
+  font-family: Calibri;
+  font-weight: bold;
+
+}
+
+.mainbody{
+  position: absolute;
+  width: 300px;
+  height: 300px;
+}

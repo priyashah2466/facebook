@@ -1,0 +1,53 @@
+.loginbar{
+  height:6em;
+  width: 100%;
+  border-width: thick;
+  border-color: black;
+  background-color: #43609c;
+  overflow: hidden;
+  white-space:nowrap;
+
+}
+.facebook{
+  position: relative;
+  width: 30%;
+  left: 122px;
+  font-family: Calibri;
+  font-size: 45px;
+  font-weight: bold;
+  color: white;
+  white-space:nowrap;
+  bottom: 17px;
+  right: 0;
+}
+.email{
+  position: relative;
+  bottom: 143px;
+  left: 698px;
+  width: 10%;
+  white-space:nowrap;
+  color: white;
+}
+.password{
+  position: relative;
+  bottom: 215px;
+  left: 890px;
+  width: 10%;
+  white-space:nowrap;
+  color: white;
+}
+.loginbutton{
+  background-color: #4568a5;
+
+  border-color: black;
+  border-width: 1px;
+}
+.loginb{
+  position: relative;
+  bottom: 285px;
+  width: 10%;
+  left: 1080px;
+}
+p.forget{
+  color: #292929;
+}
